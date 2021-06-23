@@ -1,3 +1,4 @@
 # spring-native-demo
-This project provides a simple demo project for using
-Spring Native (beta).
+This project provides a simple demo for building
+Spring Native (beta) microservice application.
+
